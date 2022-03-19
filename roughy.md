@@ -8,3 +8,8 @@ Term One Coder Academy Workbook
 1. ## Features of technologies essential for the development of the ineternet
 
     Packets are small chunks of information reasonably sized for ease of transmission over the physical network. Each packet is responsible for carrying data of variable length. On top of this, each packet has a source and a destination in the form of a unique identifying address. Packets are used to break large pieces of data down into smaller separable blocks so it can be transmitted over different routes. Following on from this, packets are an integral part of being able to transmit data without having to prearrange a connection to the device intended to communicate with.
+
+    IP addresses are used to distinctly identify devices connected to a network. An IP address is a string of numbers used to define the network and device locations for sending data. IP addresses are vital in communication over networks as they give a digital address for packets to be sent and received. Internet Protocol version 4 or IPv4 utilises 4 numbers separated by periods ranging from 0 to 255. As the number of devices connecting to the internet has exponentially increased since the inception of IP and IP addresses the need for more addresses has led to the creation of IPv6. IPv6 utilises 8 hexadecimal numbers allowing for a much larger sum of total addresses.
+
+    Routers are pieces of hardware that receive and transmit packets between networks. When a router receives a packet, the IP address of the source and intended recipient are analysed before calculating the best route to its destination and forwarding. Routers calculate the best route by using routing tables which specifies a list of directions for transmitting data to a specific network. 
+
