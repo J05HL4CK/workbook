@@ -23,3 +23,9 @@ Term One Coder Academy Workbook
     HTTP or Hypertext Transfer Protocol is the integral structure underpinning the delivery of data for the World Wide Web. HTTP is nested on top of TCP and has continued to evolve since its inception. HTTP defines interactions between the client and web server by specifying permitted client requests and server response. The function of HTTP is to initiate a connection between the user’s browser and the server for sending of html pages. When using HTTP, the connection between client and server is only maintained for the duration of each request/response. In addition to HTTP is HTTPS. HTTPS or Hypertext Transfer Protocol Secure is an encrypted version of HTTP based on the sending and receiving of security certificates.  This ensures users and clients identities are consistent and data remains secure.
 
     Web browsers are a foundational part of the World Wide Web. Browsers for short, let users access files on a local network or the web. A browser is an application designed to process and render HTML into human readable content. Most browsers contain common features such as browsing history, private-mode and bookmarks. 
+
+1. ## Data structures in Ruby and their uses
+
+    An array is a fundamental data structure of programming and is useful for performing operations on whole collections of elements rather than individual variables. An advantage of using an array is once they are declared they can be reused multiple times.
+
+    
