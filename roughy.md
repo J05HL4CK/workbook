@@ -28,4 +28,6 @@ Term One Coder Academy Workbook
 
     An array is a fundamental data structure of programming and is useful for performing operations on whole collections of elements rather than individual variables. An advantage of using an array is once they are declared they can be reused multiple times.
 
-    
+    A hash is a data structure that is generally like an array. A Hash differs from an array in that, instead of indexing by integer a hash allows the use of key/value pairs. This is useful for dealing with large or nested arrays and aids in fast access of elements if the key is known.
+
+    A graph is a data structure composed of vertices or nodes and edges which join the nodes. Nodes are structures that consist of information. Graphs are used for representing data in terms of relationships between objects.  
