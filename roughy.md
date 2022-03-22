@@ -31,3 +31,36 @@ Term One Coder Academy Workbook
     A hash is a data structure that is generally like an array. A Hash differs from an array in that, instead of indexing by integer a hash allows the use of key/value pairs. This is useful for dealing with large or nested arrays and aids in fast access of elements if the key is known.
 
     A graph is a data structure composed of vertices or nodes and edges which join the nodes. Nodes are structures that consist of information. Graphs are used for representing data in terms of relationships between objects.  
+
+1. ## Compilers & Interpreters
+
+    Interpreters and compilers are programs that both translate source code into machine readable format. However, there is some key differences. One of these being, interpreters will translate a single statement at any given time. On the other hand, a compiler will scan the program in its entirety. 
+
+1. ## Benefits and drawbacks of Ruby & C
+
+    Ruby is a popular programming language currently in use and its benefits include easily readable/writable syntax, open source with lots of easily accessible documentation and frameworks. One of the drawbacks of ruby is its scalability due to it being an interpreted language.
+
+    
+    Java is another programming language currently in use today and is also popular. Like Ruby it uses English like syntax and is easy to write and compile. One of the disadvantages of using Java is the drop in performance that occurs when the code is interpreted during run time. For programs requiring data processing in real-time this is not ideal.
+
+1. ## nil
+
+1. ## Control Flow
+
+    
+    When a program is initiated, individual statements get executed line by line from the top down. Ruby has its own set of statements for breaking this flow and directing the course of events in the program. 
+
+1. ## Type Coercion
+
+    Conversion of a data type or object into another. For example, changing a string into an integer 
+
+1. ## Data Types
+
+    Data types represent different types of data based on classes. For example, numbers are a data type and can have different types of numbers such as integers and decimal numbers known as floating point values. A string is also a data type and is a collection of ordered characters that represents a word.  
+
+1. ## nil
+
+1. ## Code Error
+
+    User input is a string and must be converted to a float before mathematical operations can be performed.
+
