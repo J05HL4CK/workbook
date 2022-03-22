@@ -5,7 +5,7 @@ Term One Coder Academy Workbook
 
     Web development is generally referred to as the tasks and associated operations with building and maintaining functional web sites. Web developers use markup languages to build pages and sites. Markup language is a codified language that explains and interprets text for manipulation by computer.  Some important components include human readable annotations, descriptive tags, semantic tags and presentational tags. These tags help to define what an element is conceptually, where it should be placed and how styling should be applied for presentation (Kyrnin, 2021).
 
-2. ## Features of technologies essential to the development of the ineternet
+2. ## Features of technologies essential to the development of the internet
 
     Packets are small chunks of information reasonably sized for ease of transmission over the physical network. Each packet is responsible for carrying data of variable length. On top of this, each packet has a source and a destination in the form of a unique identifying address. Packets are used to break large pieces of data down into smaller separable blocks so it can be transmitted over different routes. Following on from this, packets are an integral part of being able to transmit data without having to prearrange a connection to the device intended to communicate with (Univeristy, 2022).
 
@@ -64,7 +64,7 @@ Term One Coder Academy Workbook
 
     User input is a string and must be converted to a float before mathematical operations can be performed.
 
-##  REFERENCES
+ ## REFERENCES
 ------
 
 Cloudflare.com. n.d. What is DNS?. [online] Available at: <https://www.cloudflare.com/en-au/learning/dns/what-is-dns/> [Accessed 22 March 2022].
